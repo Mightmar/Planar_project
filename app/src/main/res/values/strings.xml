@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Planar_project</string>
+
+    <string name="Menu_1">Ulubione</string>
+    <string name="Menu_2">Historia Skanów</string>
+    <string name="Menu_3">Skanuj</string>
+    <string name="Menu_4">Ustawienia</string>
+    <string name="Menu_5">Kontakt</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu1">menu1</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
